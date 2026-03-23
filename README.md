@@ -1,4 +1,4 @@
-# Everwind 日本語Wiki
+# Everwind 日本語攻略まとめ
 
 > 📌 情報源: [Steam Store](https://store.steampowered.com/app/2253100/Everwind/)、[公式サイト](https://everwind.net/)
 
@@ -45,7 +45,7 @@
 
 ---
 
-## Wiki情報
+## サイト情報
 
 | 項目 | 内容 |
 |------|------|
@@ -54,4 +54,4 @@
 | 言語 | 日本語 |
 | 管理者 | コミュニティ運営 |
 
-> ⚠️ 本wikiはEarly Accessの情報に基づいています。今後のアップデートで内容が変更される可能性があります。
+> ⚠️ 本サイトはEarly Accessの情報に基づいています。今後のアップデートで内容が変更される可能性があります。
