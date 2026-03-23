@@ -1,6 +1,6 @@
 [book]
-title = "Everwind 日本語Wiki"
-description = "Everwind（エバーウィンド）の日本語攻略Wiki"
+title = "Everwind 日本語攻略まとめ"
+description = "Everwind（エバーウィンド）の日本語攻略まとめ"
 authors = ["everwind-jp"]
 language = "ja"
 src = "."
