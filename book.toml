@@ -15,3 +15,7 @@ git-repository-url = "https://github.com/everwind-jp/everwind-jp.github.io"
 no-section-label = false
 edit-url-template = "https://github.com/everwind-jp/everwind-jp.github.io/edit/master/{path}"
 site-url = "/"
+
+[output.html.fold]
+enable = true
+level = 0
