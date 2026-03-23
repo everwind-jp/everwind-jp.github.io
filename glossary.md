@@ -2,7 +2,7 @@
 
 > 📌 情報源: [Steam Store](https://store.steampowered.com/app/2253100/Everwind/)、[EverwindWiki](https://everwindwiki.com/)
 
-本wikiでは、ゲーム内の英語用語を「カタカナ（English）」形式で統一して表記します。
+本サイトでは、ゲーム内の英語用語を「カタカナ（English）」形式で統一して表記します。
 
 ---
 
