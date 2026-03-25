@@ -12,9 +12,18 @@
 
 ### ハーブ（Herbs）
 
-薬草類。主に錬金術でポーションの素材として使用します。
+薬草類。主に錬金術でポーションの素材として使用します。各バイオームに固有のハーブが生育しています。
 
-情報収集中
+#### バイオーム別ハーブ一覧
+
+| バイオーム | ハーブ名（英語） |
+|-----------|----------------|
+| 森林・草原 | Bellflower（ベルフラワー）、Bulb（バルブ）、Cane（ケーン）、Jasmine（ジャスミン）、Lavender（ラベンダー）、Typha Latifolia（タイファ・ラティフォリア）、Echinops（エキノプス）、Snowdrop（スノードロップ）、Black Dahlia（ブラックダリア）、Aster（アスター） |
+| 沼地 | Loosestrife（ルースストライフ）、Typha（タイファ） |
+| 砂漠 | Aloe（アロエ）、Cactus Ball（カクタスボール）、Cactus Prickly Pear（カクタス・プリッキリーペア）、Deserba（デザーバ） |
+| ジャングル | Agave（アガベ）、Bamboo（バンブー）、Fern（ファーン）、Philodendron（フィロデンドロン）、Burn Cap（バーンキャップ）、Glimmer Spike（グリマースパイク）、Grimeknot（グライムノット） |
+
+> 💡 各ハーブの錬金効果は [錬金術ページ](../crafting/alchemy.md) を参照してください。
 
 ### フルーツ（Fruits）
 

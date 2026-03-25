@@ -21,6 +21,7 @@ Everwindのクラフトシステムは複数のクラフトステーションを
 | アップグレードステーション | Upgrade Station | 情報収集中 | 装備の強化 | - |
 | 加工ステーション | Processing Station | 情報収集中 | アイテムの分解・素材回収 | - |
 | ルーンクラフトステーション | Rune Crafting Station | 特殊入手 | ルーンの製作 | レイス討伐で発見 |
+| スピリットチャージングステーション | Spirit Charging Station | 情報収集中 | 情報収集中 | EverwindWikiで確認（2026年3月24日）。詳細未判明 |
 
 ## ステーション設置の優先順
 
