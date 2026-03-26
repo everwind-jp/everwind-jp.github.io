@@ -42,6 +42,7 @@
 
 | 防具名 | 英語名 | 部位 | 備考 |
 |--------|--------|------|------|
+| スクラップスティーマーメタルチェストプレート | Scrap Steamer Metal Chestplate | 胸 | スティーマー系新防具（2026年3月25日確認） |
 | オールドスティーマーアンシェントチェストプレート | Old Steamer Ancient Chestplate | 胸 | 最高防御値クラス |
 | オールドスティーマーアンシェントブーツ | Old Steamer Ancient Boots | 脚 | スティーマー素材 |
 | オールドスティーマーアンシェントグローブス | Old Steamer Ancient Gloves | 手 | スティーマー素材 |

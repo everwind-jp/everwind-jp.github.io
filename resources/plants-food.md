@@ -22,6 +22,7 @@
 | 沼地 | Loosestrife（ルースストライフ）、Typha（タイファ） |
 | 砂漠 | Aloe（アロエ）、Cactus Ball（カクタスボール）、Cactus Prickly Pear（カクタス・プリッキリーペア）、Deserba（デザーバ） |
 | ジャングル | Agave（アガベ）、Bamboo（バンブー）、Fern（ファーン）、Philodendron（フィロデンドロン）、Burn Cap（バーンキャップ）、Glimmer Spike（グリマースパイク）、Grimeknot（グライムノット） |
+| 腐敗島（Rotten） | Holly（ホリー）、Red Herb（レッドハーブ）、Sicklevine（シックルヴァイン） |
 
 > 💡 各ハーブの錬金効果は [錬金術ページ](../crafting/alchemy.md) を参照してください。
 

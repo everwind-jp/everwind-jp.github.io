@@ -24,6 +24,7 @@
 | アイアンリインフォースドウッドシールド | Iron Reinforced Wooden Shield | 15 | 400 | 情報収集中 |
 | シティガードズアイアンシールド | City Guard's Iron Shield | 16 | 450 | 情報収集中 |
 | テンプルウォールシールド | Templewall Shield | 30 | 675 | 情報収集中 |
+| スクラップスティーマーメタルシールド | Scrap Steamer Metal Shield | 情報収集中 | 情報収集中 | スティーマー系新盾（2026年3月25日確認） |
 
 ## 盾の製作
 
