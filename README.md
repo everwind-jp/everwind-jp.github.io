@@ -58,7 +58,7 @@
 
 ---
 
-## 🔄 更新履歴
+## 🔄 更新履歴（[全履歴はこちら](changelog.md)）
 <!-- CHANGELOG_START -->
 <!-- CHANGELOG_END -->
 - 2026-03-30: 新装備・Glasthyrモノリス・既知バグ追記
