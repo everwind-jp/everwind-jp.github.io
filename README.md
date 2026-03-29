@@ -58,4 +58,10 @@
 
 ---
 
+## 🔄 更新履歴
+<!-- CHANGELOG_START -->
+<!-- CHANGELOG_END -->
+
+---
+
 このサイトが役に立ったら [☕ サポートする](https://ko-fi.com/gameguidejp)
