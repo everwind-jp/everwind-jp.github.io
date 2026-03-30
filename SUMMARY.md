@@ -32,6 +32,7 @@
   * [料理](crafting/cooking.md)
   * [大工](crafting/carpentry.md)
   * [ブロック建築](crafting/blocks.md)
+  * [ファーミング](crafting/farming.md)
 
 ## 素材・資源
 
@@ -66,6 +67,11 @@
 ## NPC
 
 * [NPC概要](npcs/README.md)
+
+## クエスト
+
+* [クエスト概要](quests/README.md)
+  * [サイドクエスト](quests/side-quests.md)
 
 ## その他
 
