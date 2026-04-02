@@ -20,6 +20,7 @@
 * [装備概要](equipment/README.md)
   * [武器](equipment/weapons.md)
   * [防具](equipment/armor.md)
+  * [アティア（縫製防具）](equipment/attires.md)
   * [盾](equipment/shields.md)
   * [宝飾品](equipment/jewelry.md)
   * [ツール](equipment/tools.md)
