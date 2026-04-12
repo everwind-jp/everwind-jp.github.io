@@ -15,9 +15,16 @@ Everwindのアップデート・パッチ情報をまとめています。
 - Early Access後初の大型アップデート
 - 新チャレンジ、新敵、カスタマイズオプション、強力な新装備を追加予定
 - コミュニティフィードバックを反映した内容
-- 具体的なリリース日・詳細コンテンツは未発表
+- 具体的なリリース日は未発表（「2026年5月」のみ）
 
-> 📌 確認ソース: [Insider Gaming - The First Ascent 発表記事](https://insider-gaming.com/everwind-the-first-ascent-free-update-announced-for-may/)、[Game Informer - Triple-i Initiative まとめ](https://gameinformer.com/2026/04/09/everything-announced-at-the-april-2026-triple-i-initiative)
+### 確認済みの追加コンテンツ
+
+- **スティーマー・コロッサス（Steamer Colossus）**: 新ボスとして登場。スティーマー文明の巨大機体
+- **ハードコアモード（Hardcore Mode）**: 高難度チャレンジモードを追加
+- **レジェンダリーアイテム（Legendary Items）**: 武器を含む最高レアリティの装備が実装予定
+- 詳細なステータス・仕様は今後発表予定
+
+> 📌 確認ソース: [Insider Gaming - The First Ascent 発表記事](https://insider-gaming.com/everwind-the-first-ascent-free-update-announced-for-may/)、[Gematsu - The First Ascent](https://www.gematsu.com/2026/04/everwind-early-access-update-the-first-ascent-launches-in-may)
 
 ---
 

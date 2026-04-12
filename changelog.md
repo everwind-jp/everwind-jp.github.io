@@ -4,6 +4,7 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-04-12: The First Ascent具体的コンテンツ追記（Steamer Colossus・Hardcore Mode・Legendary Items）・Rotten Entステータス追加・用語集更新
 - 2026-04-10: The First Ascent（5月予定）大型アップデート予告追記・carpentry新レシピ5種追加・既知バグ更新
 - 2026-04-06: v0.4.479ホットフィックス追記・ユニーク武器5種追加（Ancient Pipe他）・「次のパッチ予告」セクション削除（v0.4.468リリース済みのため）
 - 2026-04-06: v0.4.468追加詳細・次パッチ予告・光源ページ新設（Shock Blastルーン制限・Feedback Fixes補完）
