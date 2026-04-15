@@ -74,6 +74,13 @@
 * [クエスト概要](quests/README.md)
   * [サイドクエスト](quests/side-quests.md)
 
+## オブジェクト・家具
+
+* [オブジェクト概要](objects/README.md)
+  * [コンテナ（収納）](objects/containers.md)
+  * [家具・ベッド・テント](objects/furniture.md)
+  * [光源](equipment/light-sources.md)
+
 ## その他
 
 * [マルチプレイ](multiplayer.md)

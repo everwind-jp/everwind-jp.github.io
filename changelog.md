@@ -4,6 +4,9 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-04-16: equipment/light-sources.md 大幅更新 — トーチ・キャンドル・Iron Candelabra 5バリアント・各種ランプ・焚き火系（EverwindWiki 04-14更新分を反映）
+- 2026-04-16: objects/ セクション新設 — objects/README.md・objects/containers.md（チェスト60種以上）・objects/furniture.md（ベッド・テント・木製オブジェクト）を追加
+- 2026-04-16: SUMMARY.md に「オブジェクト・家具」セクションを追加
 - 2026-04-14: enemies/mortivar.md 全面更新 — モーティヴァー全兵種のバリアントStats追加（Archer 6段階・Assassin 5段階・Bonecrusher 5段階・Commander 6段階・Guardian 5段階・Miner 3段階・Rogue 4段階・Warden 5段階）
 - 2026-04-12: The First Ascent具体的コンテンツ追記（Steamer Colossus・Hardcore Mode・Legendary Items）・Rotten Entステータス追加・用語集更新
 - 2026-04-10: The First Ascent（5月予定）大型アップデート予告追記・carpentry新レシピ5種追加・既知バグ更新
