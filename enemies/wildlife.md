@@ -35,3 +35,15 @@
 | 情報収集中 | - |
 
 > ⚠️ 野生動物の完全なリストは情報収集中です。
+
+---
+
+## 実装予定の敵（The First Ascent）
+
+### 食肉植物（Carnivorous Plant）
+
+> ⚠️ 「The First Ascent」アップデート（2026年5月予定）で追加される新種の敵です。
+
+食肉植物（Carnivorous Plant）は植物型の初のモンスターとして追加予定です。ステータス・出現場所などの詳細は実装後に更新します。
+
+> 📌 確認ソース: [Steam News - The First Ascent](https://store.steampowered.com/news/app/2253100/view/493847788110479611)

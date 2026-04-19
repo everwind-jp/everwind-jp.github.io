@@ -26,6 +26,18 @@
 | レベルキャップ | Lv.40（EA時点） |
 | 評価 | Very Positive（82%、約1,794件） |
 
+## スクリーンショット
+
+> 📌 画像出典: [Steam Store](https://store.steampowered.com/app/2253100/Everwind/)（© Enjoy Studio S.A. / Bohemia Interactive）
+
+![Everwind - 飛行島シップとワールド探索](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2253100/extras/a103d2d85495d16a982936d6c0c4a09a.webp?t=1776347213)
+
+![Everwind - クラフト・建築](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2253100/extras/f8c6e77519ffe2cee693e743ed8c5c6c.webp?t=1776347213)
+
+![Everwind - 戦闘・バイオーム探索](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2253100/extras/ca3177b00c9fa3af11aaabb61553ce65.webp?t=1776347213)
+
+![Everwind - Co-opマルチプレイ](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2253100/extras/6192fbccc4f5c1cc62da4ab05498ba6f.webp?t=1776347213)
+
 ## ゲームの柱
 
 ### 1. 飛行島シップ（Island Ship）

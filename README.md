@@ -1,5 +1,7 @@
 # Everwind 日本語攻略まとめ
 
+![Everwind](https://cdn.akamai.steamstatic.com/steam/apps/2253100/header.jpg)
+
 > 📌 情報源: [Steam Store](https://store.steampowered.com/app/2253100/Everwind/)、[公式サイト](https://everwind.net/)
 
 **Everwind**（エバーウィンド）は、Enjoy Studio S.A. が開発し Bohemia Interactive が販売する、空飛ぶ島を舞台にしたサバイバルRPGです。2026年3月17日にSteam Early Accessとしてリリースされました。
@@ -50,7 +52,7 @@
 | 項目 | 内容 |
 |------|------|
 | 対象ゲーム | Everwind (Steam Early Access) |
-| 対応バージョン | Early Access Launch (2026年3月) |
+| 対応バージョン | v0.4.515 (2026年4月16日) |
 | 言語 | 日本語 |
 | 管理者 | コミュニティ運営 |
 

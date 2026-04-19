@@ -4,6 +4,13 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-04-19: patch-notes.md に v0.4.515（4/16）セクション追加 — プロキシミティクラフト・ジェネレーター一元操作・ブロック回転・Arcanistバランス調整ほか
+- 2026-04-19: patch-notes.md の The First Ascent セクションに食肉植物・キャラカスタマイズ追記
+- 2026-04-19: classes/arcanist.md に v0.4.515 バランス調整注記を追加
+- 2026-04-19: exploration/treasures.md の Shrine of Healing を詳細化（50HP/5s・1〜4回使用）
+- 2026-04-19: equipment/tools.md のハンググライダーを詳細化（入手場所・クラフトレシピ追加）
+- 2026-04-19: enemies/wildlife.md に食肉植物（Carnivorous Plant）の実装予定スタブ追加
+- 2026-04-19: README.md と game-overview.md に Steam公式画像を設置
 - 2026-04-16: equipment/light-sources.md 大幅更新 — トーチ・キャンドル・Iron Candelabra 5バリアント・各種ランプ・焚き火系（EverwindWiki 04-14更新分を反映）
 - 2026-04-16: objects/ セクション新設 — objects/README.md・objects/containers.md（チェスト60種以上）・objects/furniture.md（ベッド・テント・木製オブジェクト）を追加
 - 2026-04-16: SUMMARY.md に「オブジェクト・家具」セクションを追加
