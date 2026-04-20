@@ -1,6 +1,6 @@
 # Everwind 日本語攻略まとめ
 
-![Everwind](https://cdn.akamai.steamstatic.com/steam/apps/2253100/header.jpg)
+![Everwind](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2253100/81c5fb1f7602d9fe92ae9971e9c2b587e6cbeb54/header.jpg)
 
 > 📌 情報源: [Steam Store](https://store.steampowered.com/app/2253100/Everwind/)、[公式サイト](https://everwind.net/)
 
