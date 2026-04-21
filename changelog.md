@@ -4,6 +4,9 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-04-21: classes/arcanist.md スキルツリーをv0.4.515再編成後の構成に全面更新（Tier I: 氷・雷→Tier I、火→Tier II移動。属性表・推奨ビルドも更新）
+- 2026-04-21: patch-notes.md の Arcanist バランス調整注記を具体化 + 既知バグ節を更新（v0.4.515修正済み3件に✅マーク）
+- 2026-04-21: objects/containers.md にチェスト命名機能（v0.4.468）を追記
 - 2026-04-19: patch-notes.md に v0.4.515（4/16）セクション追加 — プロキシミティクラフト・ジェネレーター一元操作・ブロック回転・Arcanistバランス調整ほか
 - 2026-04-19: patch-notes.md の The First Ascent セクションに食肉植物・キャラカスタマイズ追記
 - 2026-04-19: classes/arcanist.md に v0.4.515 バランス調整注記を追加
