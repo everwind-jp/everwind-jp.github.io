@@ -26,6 +26,8 @@
 
 素材（ハーブ・キノコ・果実など）にはそれぞれ隠された「効果タグ」があり、同じ効果タグを持つ素材を3つ集めて組み合わせます。アルカニストのスキル「アルケミストアイ（Alchemist Eye）」を取得すると、素材の効果が1〜3つ自動で判明します。
 
+> 💡 **上位ステーション:** アドバンスドアルケミーステーションでは素材4個、マスタリーアルケミーステーションでは素材5個が必要になります。
+
 ## マジックリキッドの入手方法
 
 マジックリキッドは錬金の核となる素材で、入手方法は限られています：
@@ -38,44 +40,35 @@
 
 ## ポーション一覧
 
-### 確認済みポーション
+> 📌 素材情報: [EverwindWiki Alchemy Guide](https://everwindwiki.com/guides/alchemy/)（2026-04-23更新）
 
-| ポーション名 | 英語名 | 効果 | 主な素材 |
-|-------------|--------|------|----------|
-| ヒーリング | Healing | 5秒かけてHP40回復 | ブラウンウッドキャップ、樹脂、琥珀、エントハート、ハチミツ、タンジェリン |
-| 火耐性 | Fire Resistance | 60秒間、火ダメージ-50% | ドラゴンフルーツ、グライムノット |
-| 氷耐性 | Ice Resistance | 60秒間、氷ダメージ-50% | ブラックダリア、スノードロップ、エキノプス |
-| 電撃耐性 | Electricity Resistance | 60秒間、電撃ダメージ-50% | ジェリーフルーツ、エキノプス、ブラックダリア |
-| 毒耐性 | Poison Resistance | 60秒間、毒ダメージ-50% | トキシックマッシュルーム、ダークシュルーム、グリーンウッドキャップ |
-| 勤勉 | Diligence | 300秒間、ツール効果+5% | ブラウンウッドキャップ、タイファラティフォリア |
-| 収穫 | Harvest | 180秒間、採取量+50% | コーン、ベニテングタケ、ルーズストライフ |
-| 筋力 | Strength | 180秒間、物理ダメージ+5% | タンジェリン、琥珀、ロードクリスタルボーン、フォースクリスタルダスト、ドラゴンフルーツ |
-| 迅速 | Swiftness | 300秒間、移動速度+40% | ジャスミン、ブルーベリー、グルー、ブレイズクリスタルダスト |
-| ジャンプブースター | Jump Booster | 60秒間、ジャンプ高さ+50% | 骨、ブルーベリー、バルブ、ワイルドベリー、ロードクリスタルボーン |
-| ラストチャンス | Last Chance | 60秒間、1回だけ死亡を防ぎHP15%回復 | 情報収集中 |
-| リーサルプレシジョン | Lethal Precision | 60秒間、クリティカルダメージ+50% | 情報収集中 |
-| レビテーション | Levitation | 60秒間、落下速度低下。ジャンプ中に使うと上昇 | 情報収集中 |
-| ウィンドボーン | Windborne | 300秒間、滑空速度+50% | 情報収集中 |
-
-### 効果が判明したポーション（追加情報）
-
-| ポーション名 | 英語名 | 効果 | 持続時間 |
-|-------------|--------|------|----------|
-| ストーンスキン | Stone Skin | 防御+20・防御%+5% | 20秒 |
-| シャープインスティンクト | Sharp Instincts | クリティカル率+5% | 60秒 |
-| ライト | Light | 光源を発生 | 120秒 |
-| インビジビリティ | Invisibility | ツール耐久消費-25% | 180秒 |
-| ロックピッキング | Lockpicking | 解錠成功率+10% | 180秒 |
-| ルートラック | Loot Luck | コンテナから良質アイテム+10% | 180秒 |
-| ピュリフィケーション | Purification | 全状態異常を除去 | 即時 |
-
-### まだ効果が不明なポーション
-
-| ポーション名 | 英語名 |
-|-------------|--------|
-| パーセプション | Perception |
-| ソフトハンド | Soft Hand |
-| タイアレス | Tireless |
+| ポーション名 | 英語名 | 効果 | 持続時間 | 主な素材（英語名） |
+|-------------|--------|------|----------|-------------------|
+| ヒーリング | Healing | HP40回復 | 5秒かけて回復 | Resin, Blue Resin, Amber |
+| 火耐性 | Fire Resistance | 火ダメージ-50% | 60秒 | Sulfur, Dragon Fruit, Grimeknot |
+| 氷耐性 | Ice Resistance | 氷ダメージ-50% | 60秒 | Black Dahlia, Snowdrop, Echinops |
+| 電撃耐性 | Electricity Resistance | 電撃ダメージ-50% | 60秒 | Jelly Fruit, Echinops, Black Dahlia |
+| 毒耐性 | Poison Resistance | 毒ダメージ-50% | 60秒 | Toxic Mushroom, Darkshroom, Green Woodcap |
+| 勤勉 | Diligence | ツール効果+5% | 300秒 | Brown Woodcap, Typha Latifolia, Grimeknot |
+| 収穫 | Harvest | 採取量+50% | 180秒 | Corn, Fly Agaric, Loosestrife |
+| 筋力 | Strength | 物理ダメージ+5% | 180秒 | Tangerine, Amber, Burncap |
+| 迅速 | Swiftness | 移動速度+40% | 300秒 | Jasmine, Blueberry, Chokeberry |
+| ジャンプブースター | Jump Booster | ジャンプ高さ+50% | 60秒 | Bone, Blueberry, Bulb |
+| 落下吸収 | Fall Absorber | 落下ダメージ-50% | 300秒 | Butterfly Wing, Feather, Jelly Fruit |
+| ラストチャンス | Last Chance | 1回だけ死亡を防ぎHP15%回復 | 60秒 | Tangerine, Honey, Ent Heart |
+| リーサルプレシジョン | Lethal Precision | クリティカルダメージ+50% | 60秒 | Black Dahlia, Fang, Spinejaw Leather |
+| レビテーション | Levitation | 落下速度低下。ジャンプ中に使うと上昇 | 60秒 | Philodendron, Aster, Butterfly Wing |
+| ウィンドボーン | Windborne | 滑空速度+50% | 300秒 | Porcini, Nightflit's Wing, Cactus Prickly Pear |
+| ストーンスキン | Stone Skin | 防御+20・防御%+5% | 20秒 | Egg, Coconut, Clams |
+| シャープインスティンクト | Sharp Instincts | クリティカル率+5% | 60秒 | Meat, Pearl, Dragon Fruit |
+| ライト | Light | 光源を発生（強度1） | 120秒 | Moonshroom, Toxic Mushroom, Glowing Mushroom |
+| インビジビリティ | Invisibility | ツール耐久消費-25% | 180秒 | Spirit Crystal Dust, Moonshroom, Bamboo |
+| ロックピッキング | Lockpicking | 解錠成功率+10% | 180秒 | Cone, Bell Flower, Chanterelle |
+| ルートラック | Loot Luck | コンテナから良質アイテム+10% | 180秒 | Corn, Aster, Rat's Tail |
+| ピュリフィケーション | Purification | 全状態異常を除去 | 即時 | Holly, Gemsbock Cucumber, Papaya |
+| パーセプション | Perception | 光源を発生（強度1） | 120秒 | Blue Resin, Darkshroom, Cactus Fruit |
+| ソフトハンド | Soft Hand | ツール耐久消費-25% | 180秒 | Aloes, Snowdrop, Lavender |
+| タイアレス | Tireless | スタミナ消費-25% | 30秒 | Fur, Bulb, Cactus Ball |
 
 ---
 
@@ -99,7 +92,7 @@
 
 ## 注意事項
 
-- クラフト時、素材はインベントリに入っている必要があります（近くのチェストから直接取り出せません）
+- **v0.4.515以降**: プロキシミティクラフトが実装され、飛行船上のチェストに入っている素材を直接使用できます
 - マジックリキッドは貴重なので、ポーションを選んで製作しましょう
 
 > ⚠️ 一部のポーションの素材は情報収集中です。ゲームのリリースから日が浅いため、コミュニティの検証が進み次第更新します。
