@@ -4,6 +4,8 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-04-28: equipment/armor.md にヘルメット24種の防御・耐久・クラフト素材を全追記（EverwindWiki 04-24更新分反映）
+- 2026-04-28: equipment/weapons.md のマジックスタッフ／ロッドを8種構成（下位4＋上位4）に全面改訂、チャージ値を追加（EverwindWiki 04-26更新分反映）
 - 2026-04-25: equipment/tools.md に斧・ピッケル・シャベル全7ティアのステータス表とクラフトレシピを追加（EverwindWiki 04-25追加分。Tier7は未実装注記付き）
 - 2026-04-25: classes/arcanist.md にスキルティア解放条件（次ティアに3スキルポイント必要）を追記
 - 2026-04-24: crafting/alchemy.md 全ポーション素材を補完（EverwindWiki 04-23更新分反映） — Fall Absorber新規追加・14種の素材判明・上位ステーション注記・プロキシミティクラフト対応に更新
