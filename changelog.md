@@ -4,6 +4,10 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-04-29: achievements.md 新設 — Steam実績9個（通常8＋隠し1）の名称・解除条件・日本語訳を全追加
+- 2026-04-29: editions-dlc.md 新設 — スタンダード/Capybaraエディション・Supporter Pack・Thank-You Giftの内容と価格を整理。「DLC装備はコスメティックのみ・性能差なし」を明記
+- 2026-04-29: patch-notes.md にロードマップ節を新設 — Triple-i Initiative 公開のサンドボックスモード・専用サーバー・建築刷新・コンソール検討等を反映
+- 2026-04-29: game-overview.md のロードマップを更新 — The First Ascent への内部リンク・サンドボックス/専用サーバー等を具体化
 - 2026-04-28: equipment/armor.md にヘルメット24種の防御・耐久・クラフト素材を全追記（EverwindWiki 04-24更新分反映）
 - 2026-04-28: equipment/weapons.md のマジックスタッフ／ロッドを8種構成（下位4＋上位4）に全面改訂、チャージ値を追加（EverwindWiki 04-26更新分反映）
 - 2026-04-25: equipment/tools.md に斧・ピッケル・シャベル全7ティアのステータス表とクラフトレシピを追加（EverwindWiki 04-25追加分。Tier7は未実装注記付き）

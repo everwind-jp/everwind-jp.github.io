@@ -55,6 +55,29 @@ Everwindのアップデート・パッチ情報をまとめています。
 
 ---
 
+## ロードマップ（The First Ascent 以降の中長期計画）
+
+Triple-i Initiative ショーケースで公開されたロードマップでは、The First Ascent 以降にも以下の追加コンテンツが予定されています。**個別のリリース時期は未発表**で、コミュニティフィードバックに応じて内容が変動する可能性があります。
+
+### 確認済みの予定項目
+
+- **サンドボックスモード（Sandbox Mode）**: 新ゲームモードとして追加予定
+- **専用サーバー（Dedicated Servers）**: マルチプレイ強化
+- **建築メカニクスの刷新（Building mechanics）**: ブロック・建築まわりの大幅な拡張
+- **スキルツリーの追加調整**: 各クラスの選択肢を継続的に拡張
+- **AIの改善（AI improvements）**: 敵・NPCのビヘイビア強化
+- **村人システム（Villagers）の拡張**: NPC交流の本格化
+- **ストーリーコンテンツの追加**: 物語要素の拡充
+
+### コンソール版について
+
+- 開発者は **Early Access期間中はPC版を最優先** と明言
+- コンソール移植は EA終了後に検討予定（移植先プラットフォームは未発表）
+
+> 📌 確認ソース: [Insider Gaming](https://insider-gaming.com/everwind-the-first-ascent-free-update-announced-for-may/)、[Niche Gamer](https://nichegamer.com/everwind-gets-first-major-post-launch-update-in-may/)、[Bleeding Cool - Triple-i 2026](https://bleedingcool.com/games/everything-revealed-during-the-triple-i-initiative-2026/)
+
+---
+
 ## ホットフィックス v0.4.479（2026年4月3日）
 
 ### バグ修正

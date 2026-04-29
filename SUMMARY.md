@@ -84,6 +84,8 @@
 ## その他
 
 * [マルチプレイ](multiplayer.md)
+* [実績一覧](achievements.md)
+* [エディション・DLC](editions-dlc.md)
 * [パッチノート](patch-notes.md)
 * [情報源一覧](sources.md)
 * [更新履歴](changelog.md)

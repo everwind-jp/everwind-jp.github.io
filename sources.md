@@ -32,6 +32,18 @@
 | Massively Overpowered | [記事](https://massivelyop.com/2026/03/19/bohemias-kickstarted-co-op-skyship-sandbox-everwind-has-soared-into-early-access/) | EA ローンチ記事 |
 | Gameoneer | [記事](https://gameoneer.com/everwind-enters-early-access-with-nearly-one-million-wishlists-on-steam/) | EA ローンチレポート |
 | Intel Gaming Access | [記事](https://game.intel.com/us/stories/launching-a-new-team-to-the-skies-everwind/) | 開発チームインタビュー |
+| Insider Gaming | [The First Ascent 記事](https://insider-gaming.com/everwind-the-first-ascent-free-update-announced-for-may/) | The First Ascent およびロードマップ詳細 |
+| Niche Gamer | [記事](https://nichegamer.com/everwind-gets-first-major-post-launch-update-in-may/) | The First Ascent 補足情報 |
+| Gematsu | [記事](https://www.gematsu.com/2026/04/everwind-early-access-update-the-first-ascent-launches-in-may) | The First Ascent 発表記事 |
+| Bleeding Cool | [Triple-i 2026 まとめ](https://bleedingcool.com/games/everything-revealed-during-the-triple-i-initiative-2026/) | Triple-i Initiative ショーケース総括 |
+
+## 実績データベース
+
+| サイト | URL | 内容 |
+|--------|-----|------|
+| Steam Hunters | [Achievements](https://steamhunters.com/apps/2253100/achievements) | Steam実績一覧・解除率 |
+| Exophase | [Achievements](https://www.exophase.com/game/everwind-steam/achievements/) | Steam実績一覧 |
+| GameFAQs | [Achievements](https://gamefaqs.gamespot.com/pc/401129-everwind/achievements) | Steam実績一覧 |
 
 ---
 
