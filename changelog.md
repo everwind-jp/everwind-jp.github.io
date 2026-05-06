@@ -4,6 +4,9 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-05-06: resources/runes.md 全25種のルーン一覧・効果値レンジ・用途別おすすめを追加（EverwindWiki 05-01更新分反映）。グレードを5段階→6段階（Fragment追加）に訂正
+- 2026-05-06: multiplayer.md に難易度スケーリング仕様（人数比例のHP/ダメ増・ボスのindividual loot）・アンチチート詳細・セーブデータ説明を追加
+- 2026-05-06: tips.md のプロキシミティクラフト記述を v0.4.515 仕様に更新（旧：チェストから直接取り出せない→新：近傍チェストからクラフト可）
 - 2026-04-29: achievements.md 新設 — Steam実績9個（通常8＋隠し1）の名称・解除条件・日本語訳を全追加
 - 2026-04-29: editions-dlc.md 新設 — スタンダード/Capybaraエディション・Supporter Pack・Thank-You Giftの内容と価格を整理。「DLC装備はコスメティックのみ・性能差なし」を明記
 - 2026-04-29: patch-notes.md にロードマップ節を新設 — Triple-i Initiative 公開のサンドボックスモード・専用サーバー・建築刷新・コンソール検討等を反映
