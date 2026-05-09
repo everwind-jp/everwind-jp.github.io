@@ -4,6 +4,11 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-05-09: enemies/bosses.md にグリムヴァー文明セクションを再構成 — Grimverd通常兵5種（Acolyte/Ambusher/Priest/Warrior/Shaman）の表を追加、Gronit（HP60/防御79/Grimverd Golem召喚）を新規追加。ジャングル・エントのHP/ダメ/EXPを確定値に差し替え、Grimverd Golemに召喚情報を追記
+- 2026-05-09: enemies/README.md に敵カテゴリとしてグリムヴァー文明を追加（毒・電撃が共通弱点）
+- 2026-05-09: crafting/alchemy.md ポーション一覧に **5段階ティア別の効果値レンジ** を追記（Windborn最大100%・Last Chance最大40%回復ほか）。タレント・リニューアルを新規行追加。EverwindWiki Potions 05-08更新分反映
+- 2026-05-09: [訂正] resources/runes.md ルーン総数 25→**23種**、ティア構造を「Fragmentはクラフト素材専用 / 実用ティアは Small〜Perfect の5段階」に整理。ティア別の具体効果値表を全カテゴリに展開し、**Fire Blast/Shock Blast の Perfect 値を 100→85 に訂正**（Frost/Poisonは100で正しい）。DoT系の段階値を1〜10/2〜15などに具体化
+- 2026-05-09: [訂正] achievements.md 隠し実績「Why?」の解除条件を「金属パイプ（Metal Pipe）を付呪し完全アップグレードする」に確定（EverwindWiki Steam Achievementsガイド掲載）
 - 2026-05-06: resources/runes.md 全25種のルーン一覧・効果値レンジ・用途別おすすめを追加（EverwindWiki 05-01更新分反映）。グレードを5段階→6段階（Fragment追加）に訂正
 - 2026-05-06: multiplayer.md に難易度スケーリング仕様（人数比例のHP/ダメ増・ボスのindividual loot）・アンチチート詳細・セーブデータ説明を追加
 - 2026-05-06: tips.md のプロキシミティクラフト記述を v0.4.515 仕様に更新（旧：チェストから直接取り出せない→新：近傍チェストからクラフト可）
