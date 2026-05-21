@@ -132,7 +132,7 @@ Everwindはティア制の進行システムを採用しています。新しい
 
 Early Access期間中、以下の要素が追加予定です（Triple-i Initiative 2026で公開）：
 
-- **The First Ascent**（2026年5月予定）— EA初の大型アップデート。詳細は [パッチノート](patch-notes.md)
+- **The First Ascent**（**2026年5月28日配信予定**）— EA初の大型アップデート。詳細は [パッチノート](patch-notes.md)
 - スキルツリーの拡張・追加調整
 - AIビヘイビアの改善
 - 村人（Villager）交流システムの拡張

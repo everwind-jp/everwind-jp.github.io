@@ -31,16 +31,16 @@ Everwindのアップデート・パッチ情報をまとめています。
 
 ---
 
-## 大型アップデート予告: The First Ascent（2026年5月予定）
+## 大型アップデート予告: The First Ascent（2026年5月28日配信予定）
 
-2026年4月9日の **Triple-i Initiative** ショーケースにて初公開されました。
+2026年4月9日の **Triple-i Initiative** ショーケースにて初公開され、2026年5月15日の公式予告動画で**5月28日リリース**が確定しました。
 
 ### 概要
 
 - Early Access後初の大型アップデート
 - 新チャレンジ、新敵、カスタマイズオプション、強力な新装備を追加予定
 - コミュニティフィードバックを反映した内容
-- 具体的なリリース日は未発表（「2026年5月」のみ）
+- **配信日: 2026年5月28日**（公式予告動画 "🚨 The 1st Ascent - drops May 28th!" で発表）
 
 ### 確認済みの追加コンテンツ
 
@@ -51,7 +51,21 @@ Everwindのアップデート・パッチ情報をまとめています。
 - **キャラクターカスタマイズ拡充**: 外見カスタマイズのオプション追加が予定されている
 - 詳細なステータス・仕様は今後発表予定
 
-> 📌 確認ソース: [Insider Gaming - The First Ascent 発表記事](https://insider-gaming.com/everwind-the-first-ascent-free-update-announced-for-may/)、[Gematsu - The First Ascent](https://www.gematsu.com/2026/04/everwind-early-access-update-the-first-ascent-launches-in-may)
+### ティーザー第2弾で公開された追加要素（2026-05-13 Steam News）
+
+公式アナウンスで具体的な追加コンテンツが詳細化されました。本リリース当日にはこれ以上の変更を含む可能性があると明記されています。
+
+- **新敵**: Vespers（ヴェスパー）と Vesper Larvas（ヴェスパー幼体）、Snapblooms（スナップブルーム／植物型）、Scorpiors（スコーピオール）、**X-44R The Scrapper**（Rotten バイオームを徘徊する**中立モンスター**）
+- **新NPC**: Capybara Merchant（カピバラ商人） — 稀少・隠し遭遇キャラクター
+- **新アイテム**: **Lantern（ランタン）** — オフハンド装備で暗闇を照らす。クラフト素材で複数バリアントあり。コミュニティ要望が最も多かったアイテム
+- **新ストラクチャー**: Ladders（はしご）、Moisture Collector（湿気採取器）、Pirate Galleons（海賊ガレオン船型ストラクチャー）
+- **新家具セット**: Pirate Furniture Set（パイレーツ家具セット） — 砂漠の水位に出現する海賊にちなんだ装飾家具セット（Pirate Galleons とは別の家具セット）
+- **武器**: **20種類以上の新矢タイプ**と新弓モディファイア
+- **QoL**: 三人称視点での傾き（leaning）で精密射撃が可能に、プロキシミティクラフトの**範囲拡張**
+- **戦闘調整**: ボス出現比率上昇
+- **マップ**: 洞窟生成ロジック更新
+
+> 📌 確認ソース: [Insider Gaming - The First Ascent 発表記事](https://insider-gaming.com/everwind-the-first-ascent-free-update-announced-for-may/) / [Gematsu - The First Ascent](https://www.gematsu.com/2026/04/everwind-early-access-update-the-first-ascent-launches-in-may) / [Steam News - Upcoming Major Update: The First Ascent (2026-05-13)](https://store.steampowered.com/news/app/2253100/view/657105811282069219) / [公式予告動画 "🚨 The 1st Ascent - drops May 28th!"](https://www.youtube.com/watch?v=DtcA6Nf9N5s)
 
 ---
 
