@@ -4,6 +4,7 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-05-25: [攻略] **exploration/treasures.md にロアテキスト（Lore Texts）節を新設**。Human Notes / Mortivar Notes / Statue Texts（Nyxthor・King Edmar の像）/ Steamer Archive Units / Grimverd Boards & Chronicle Pillar の5カテゴリと配置場所・内容傾向を整理。直接的なゲームプレイ効果はなく環境ストーリーテリング要素である点を明記。EverwindWiki 2026-05-21 追加分反映
 - 2026-05-21: [攻略] **enemies/bosses.md の Hexrat（ヘックスラット）を確定ステータスで補完**。「情報収集中」だった出現・ドロップ欄を、8段階レベル制（Hexrat I〜VIII、HP 90〜900 / ダメージ 10-13〜28-33 / EXP 50〜437）、弱点（火・毒）/耐性（氷）、ドロップ（Fang ×2・Rat's Tail、レアで Crystal Of Force Dust）に差し替え。EverwindWiki 2026-05-20 更新分。併せて patch-notes.md ティーザー節に Pirate Furniture Set を追加、X-44R The Scrapper を「Rotten バイオーム徘徊の中立モンスター」と分類明記
 - 2026-05-21: [攻略] **The First Ascent の配信日が 2026年5月28日に確定**。patch-notes.md / game-overview.md の表記を「5月予定」→「5月28日配信予定」に更新。併せて 2026-05-13 Steam News（ティーザー第2弾）で公開された確定追加要素（新敵 Vespers / Snapblooms / Scorpiors / X-44R、Capybara Merchant、Lantern、Ladders、Moisture Collector、Pirate Galleons、新矢タイプ20種、三人称傾き射撃、ボス出現比率上昇など）を patch-notes.md に節として整理。出典は Steam News 公式投稿と公式予告動画
 - 2026-05-09: enemies/bosses.md にグリムヴァー文明セクションを再構成 — Grimverd通常兵5種（Acolyte/Ambusher/Priest/Warrior/Shaman）の表を追加、Gronit（HP60/防御79/Grimverd Golem召喚）を新規追加。ジャングル・エントのHP/ダメ/EXPを確定値に差し替え、Grimverd Golemに召喚情報を追記
