@@ -31,41 +31,83 @@ Everwindのアップデート・パッチ情報をまとめています。
 
 ---
 
-## 大型アップデート予告: The First Ascent（2026年5月28日配信予定）
+## 大型アップデート: The First Ascent（2026年5月28日配信）
 
-2026年4月9日の **Triple-i Initiative** ショーケースにて初公開され、2026年5月15日の公式予告動画で**5月28日リリース**が確定しました。
+Early Access 後初の大型アップデート。2026年4月9日の **Triple-i Initiative** ショーケースで初公開され、**2026年5月28日に正式配信**されました。
 
-### 概要
+### ワールド生成の刷新（重要・破壊的変更）
 
-- Early Access後初の大型アップデート
-- 新チャレンジ、新敵、カスタマイズオプション、強力な新装備を追加予定
-- コミュニティフィードバックを反映した内容
-- **配信日: 2026年5月28日**（公式予告動画 "🚨 The 1st Ascent - drops May 28th!" で発表）
+本アップデートはワールド生成ロジックを根本から変更しています。**旧セーブはそのままでは新ワールドの追加要素を遊べないため、Save Transfer System で新規シードのワールドへ移行する必要があります**。
 
-### 確認済みの追加コンテンツ
+- **Save Transfer System**: シードを選択した新ワールドへ、所持アイテム・船・キャラクター進捗を引き継いで移行できる仕組み
+- 移行時にはコミュニティ報告で**ウェイポイントが消失する／一部インベントリアイテムが消失する**ケースが上がっており、開発側で順次修正中
 
-- **スティーマー・コロッサス（Steamer Colossus）**: 新ボスとして登場。スティーマー文明の巨大機体
-- **ハードコアモード（Hardcore Mode）**: **パーマデス**モード。1キャラクターにつき1ライフ、死亡するとキャラクターが永続的に消去される
-- **レジェンダリーアイテム（Legendary Items）**: 武器を含む最高レアリティの装備が実装予定
-- **食肉植物（Carnivorous Plant）**: 新敵として追加予定。植物型の初のモンスター
-- **キャラクターカスタマイズ拡充**: 外見カスタマイズのオプション追加が予定されている
-- 詳細なステータス・仕様は今後発表予定
+### 新ボス・新敵
 
-### ティーザー第2弾で公開された追加要素（2026-05-13 Steam News）
+- **Steamer Colossus（スティーマー・コロッサス）**: Rotten バイオームで遭遇するスティーマー文明のメカ巨大ボス
+- **Vesper（ヴェスパー）**: 3種のバリアント（腐食 / 倦怠 / 呪い効果）
+- **Larva Wasp（ラルヴァ・ワスプ）／ Bloater Egg（ブローター・エッグ）／ Small Larva（スモール・ラルヴァ）**: Vesper の卵・幼体系
+- **Snapbloom（スナップブルーム）**: 植物型モンスター（食肉植物系）
+- **Scorpior（スコーピオール）**
+- **X-44R "The Scrapper"**: Rotten バイオームを徘徊する中立メカモンスター
+- **Grimverd Archer / Mortivar City Guard / Grimverd Priest**: 既存兵種の更新・追加バリアント
 
-公式アナウンスで具体的な追加コンテンツが詳細化されました。本リリース当日にはこれ以上の変更を含む可能性があると明記されています。
+### 新NPC・商人
 
-- **新敵**: Vespers（ヴェスパー）と Vesper Larvas（ヴェスパー幼体）、Snapblooms（スナップブルーム／植物型）、Scorpiors（スコーピオール）、**X-44R The Scrapper**（Rotten バイオームを徘徊する**中立モンスター**）
-- **新NPC**: Capybara Merchant（カピバラ商人） — 稀少・隠し遭遇キャラクター
-- **新アイテム**: **Lantern（ランタン）** — オフハンド装備で暗闇を照らす。クラフト素材で複数バリアントあり。コミュニティ要望が最も多かったアイテム
-- **新ストラクチャー**: Ladders（はしご）、Moisture Collector（湿気採取器）、Pirate Galleons（海賊ガレオン船型ストラクチャー）
-- **新家具セット**: Pirate Furniture Set（パイレーツ家具セット） — 砂漠の水位に出現する海賊にちなんだ装飾家具セット（Pirate Galleons とは別の家具セット）
-- **武器**: **20種類以上の新矢タイプ**と新弓モディファイア
-- **QoL**: 三人称視点での傾き（leaning）で精密射撃が可能に、プロキシミティクラフトの**範囲拡張**
-- **戦闘調整**: ボス出現比率上昇
-- **マップ**: 洞窟生成ロジック更新
+- **Pirate Merchant（パイレーツ商人）**: 海賊船で出会える新商人
+- **Capybara Merchant（カピバラ商人）**: Capybara Island に稀に出現する珍しい商人。固有の珍品を扱う
 
-> 📌 確認ソース: [Insider Gaming - The First Ascent 発表記事](https://insider-gaming.com/everwind-the-first-ascent-free-update-announced-for-may/) / [Gematsu - The First Ascent](https://www.gematsu.com/2026/04/everwind-early-access-update-the-first-ascent-launches-in-may) / [Steam News - Upcoming Major Update: The First Ascent (2026-05-13)](https://store.steampowered.com/news/app/2253100/view/657105811282069219) / [公式予告動画 "🚨 The 1st Ascent - drops May 28th!"](https://www.youtube.com/watch?v=DtcA6Nf9N5s)
+### 新装備（ユニーク武器・防具・アクセサリ）
+
+- **ユニーク武器**:
+  - Scarlet Scythes（スカーレット・サイス）: 出血付与・出血中の敵に追加ダメージ
+  - Void Decree（ヴォイド・ディクリー）: 唯一の防御貫通付き近接武器、独自の毒効果
+- **盾**:
+  - Skyshatter Guard（スカイシャター・ガード）: 凍結耐性 + 氷ダメージ強化
+  - Mortified Wall（モーティファイド・ウォール）
+- **メイジ装備**: Mage Clothes セット（火・氷・電撃・毒の4属性 × T1/T2 の上下構成）
+- **アクセサリ**: Pirate Hat、Arcane Legacy Necklace、Treacherous Abyss Necklace、Cursed Ring of the Assassin、Chaotic Nature Ring
+
+### アーチェリー刷新
+
+- **新矢タイプ16種以上**: 燃焼 / 毒 / 出血などの効果付与矢
+- **新弓モディファイア**: Crit DMG / Backstab / Resistance Penetration
+- **弓専用ルーン4種**: Wind Blow、Sky Pierce、Shadow Echo、Infused String
+
+### 新システム・QoL
+
+- **ハードコアモード（Hardcore Mode）**: パーマデス。1キャラクターにつき1ライフ、死亡で永続消去
+- **Lantern（ランタン）**: 武器装備中にオフハンドへ装備可能な照明アイテム。クラフト素材で複数バリアント
+- **Ladders（はしご）／ Moisture Collector（湿気採取器）／ Pirate Galleons（海賊ガレオン船型ストラクチャー）**
+- **Pirate Furniture Set（パイレーツ家具セット）**
+- **三人称視点の傾き（leaning）**: 第三者視点での精密射撃に対応
+- **「Add Picked Items To」オプション**: 取得アイテムの自動振り分け先指定
+- **島セーブの自動クリーンアップ**: 指定期間経過後の不要セーブを整理
+- **ワールドスロットごとのセーブフォルダを開くボタン**
+- **セーブごとのプレイ時間記録**
+- **キャラクターカスタマイズ拡充**
+
+### バランス調整
+
+- **ボス出現比率上昇**
+- **上位ティアのキーが下位ティアの鍵も解錠可能に**
+- **マジックスタッフのチャージ回数強化**
+- **敵特殊攻撃のレベル別リバランス**
+- **バイオームごとの樹木耐久度を調整**
+- **ツール・防具スタンドのドロップ配分を調整**
+
+### バグ修正（抜粋）
+
+- マルチプレイ進行データ消失の修正
+- 飛行船コリジョン関連の追加修正
+- チェスト内アイテム消失の修正
+- Co-op 同期ズレの多数修正
+
+### レジェンダリーアイテム
+
+過去の予告で言及されていた Legendary Items 枠については、本アップデートで上記ユニーク武器・防具群が該当する形で配信されています。
+
+> 📌 確認ソース: [Steam News - The First Ascent Update Has Arrived!](https://store.steampowered.com/news/app/2253100/view/673996212918026326) / [Massively Overpowered（2026-05-29）](https://massivelyop.com/2026/05/29/everwinds-first-major-update-the-first-ascent-adds-enemies-merchants-and-quality-of-life-improvements/) / [ComicBook.com（2026-05-28）](https://comicbook.com/gaming/news/everwind-just-launched-its-first-major-update-you-wont-want-to-miss-its-new-merchants/) / [Games Press 公式リリース](https://www.gamespress.com/Everwinds-The-First-Ascent-Update-Expands-Combat-Exploration-and-Core-) / [EverwindWiki](https://everwindwiki.com/)
 
 ---
 

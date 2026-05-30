@@ -132,13 +132,12 @@ Everwindはティア制の進行システムを採用しています。新しい
 
 Early Access期間中、以下の要素が追加予定です（Triple-i Initiative 2026で公開）：
 
-- **The First Ascent**（**2026年5月28日配信予定**）— EA初の大型アップデート。詳細は [パッチノート](patch-notes.md)
+- **The First Ascent**（**2026年5月28日配信済み**）— EA初の大型アップデート。Steamer Colossus / 新敵 / Pirate Merchant / Lantern / 新ユニーク武器 / アーチェリー刷新 / Save Transfer System ほか。詳細は [パッチノート](patch-notes.md)
 - スキルツリーの拡張・追加調整
 - AIビヘイビアの改善
 - 村人（Villager）交流システムの拡張
 - **専用サーバー**（Dedicated Servers）
 - **サンドボックスモード**（Sandbox Mode）の追加
-- ハードコアモード（The First Ascent で実装予定）
 - 建築メカニクスの刷新
 - 新しい敵・武器種・ストーリーコンテンツ
 - コンソール版（EA終了後に検討予定）

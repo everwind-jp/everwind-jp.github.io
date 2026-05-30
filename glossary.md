@@ -80,7 +80,7 @@
 | Grimverd Priest Scribe | グリムヴァー・プリースト・スクライブ | グリムヴァー文明の魔法使い型敵。HP235 |
 | Grimverd Shaman Hexer | グリムヴァー・シャーマン・ヘクサー | グリムヴァー文明のシャーマン型敵。HP780、電撃弱点 |
 | Rotten Ent | ロットエント | スティーマー文明関連の腐敗した巨大エント。HP4,250、ダメージ75-85。火属性が-45%の特大弱点。Grove Murmur（ユニーク武器）をドロップ |
-| Steamer Colossus | スティーマー・コロッサス | The First Ascent（2026年5月予定）で追加されるスティーマー文明の巨大機体ボス |
+| Steamer Colossus | スティーマー・コロッサス | The First Ascent（2026-05-28 配信）で追加されたスティーマー文明の巨大機体ボス。Rotten バイオームに出現 |
 | Forest Ent | フォレスト・エント | 木の精霊型ボス。HP 1,000 / 防御 49 / 火（-45%）毒（-25%）弱点 |
 | Bear | クマ | 自然の野生動物（アグレッシブアニマル）。詳細ステータスは情報収集中 |
 
@@ -88,8 +88,11 @@
 
 | 英語 | カタカナ | 説明 |
 |------|----------|------|
-| Hardcore Mode | ハードコアモード | The First Ascent（2026年5月予定）で追加される高難度チャレンジモード |
-| Legendary Items | レジェンダリーアイテム | The First Ascent（2026年5月予定）で追加される最高レアリティの装備。武器を含む |
+| Hardcore Mode | ハードコアモード | The First Ascent（2026-05-28 配信）で実装されたパーマデスモード。1キャラ1ライフ・死亡で永続消去 |
+| Legendary Items | レジェンダリーアイテム | The First Ascent（2026-05-28 配信）で実装された高レアリティ装備群（Scarlet Scythes、Void Decree、Skyshatter Guard、Mortified Wall ほか） |
+| Save Transfer System | セーブトランスファー | The First Ascent でワールド生成が刷新されたため、旧セーブから新シードのワールドへ船・キャラ進捗・所持品を移行する仕組み |
+| Pirate Merchant | パイレーツ商人 | The First Ascent で追加された海賊船で出会える商人 |
+| Lantern | ランタン | The First Ascent で追加。武器装備中にオフハンドへ装備可能な照明アイテム。クラフト素材で複数バリアント |
 
 ## ゲームシステム
 

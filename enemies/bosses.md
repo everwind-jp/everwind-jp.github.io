@@ -111,17 +111,20 @@ Everwindには複数のボス敵が存在します。モーティヴァー（Mor
 
 ---
 
-## The First Ascent（2026年5月予定）で追加されるボス
+## The First Ascent（2026年5月28日配信）で追加されたボス
 
 ### スティーマー・コロッサス（Steamer Colossus）
 
 | 項目 | 内容 |
 |------|------|
 | タイプ | スティーマー文明の巨大機体ボス |
-| 追加時期 | 2026年5月「The First Ascent」アップデート |
-| HP / ダメージ / 出現場所 | 情報収集中 |
+| 追加時期 | 2026年5月28日「The First Ascent」アップデートで実装 |
+| 出現バイオーム | **Rotten バイオーム**（公式 Steam News / Massively Overpowered で確認） |
+| HP / ダメージ / ドロップ | 情報収集中（実機検証待ち） |
 
-> ⚠️ The First Ascent実装後に詳細を更新します。
+> 📌 配信日：2026-05-28。Rotten バイオームを徘徊する中立メカ **X-44R "The Scrapper"** と同じバイオームで遭遇する報告あり。詳細ステータスは EverwindWiki 反映待ち。
+>
+> 📌 確認ソース: [Steam News - The First Ascent Update Has Arrived!](https://store.steampowered.com/news/app/2253100/view/673996212918026326) / [Massively Overpowered](https://massivelyop.com/2026/05/29/everwinds-first-major-update-the-first-ascent-adds-enemies-merchants-and-quality-of-life-improvements/)
 
 ---
 
