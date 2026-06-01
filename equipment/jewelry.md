@@ -14,20 +14,20 @@
 
 | アイテム名 | 英語名 | 効果 |
 |------------|--------|------|
-| ヴェルディグリスリング | Verdigris Ring | 最大スタミナ +9 |
+| ヴェルディグリスリング | Verdigris Ring | 最大スタミナ +7〜9 |
 | ヴォイドバンドリング | Voidband Ring | バックスタブダメージ +4% |
-| ゴールデンリング | Golden Ring | 情報収集中 |
-| シェードシールリング | Shadeseal Ring | バックスタブダメージ +6〜9% |
-| ヴェルディグリスメダリオンリング | Verdigris Medallion Ring | 情報収集中 |
+| ゴールデンリング | Golden Ring | 最大HP +9〜12 |
+| シェードシールリング | Shadeseal Ring | バックスタブダメージ +5〜9% |
+| ヴェルディグリスメダリオンリング | Verdigris Medallion Ring | 最大スタミナ +15〜20 |
 | グレイシャーリング | Glacier Ring | 最大スタミナ +21 |
-| ナイトフォールリング | Nightfall Ring | 情報収集中 |
+| ナイトフォールリング | Nightfall Ring | バックスタブダメージ +12% |
 | リジッドリング | Ridged Ring | 経験値獲得量 +1% |
-| ナイトジュエルドリング | Night Jeweled Ring | バックスタブダメージ +15〜17% |
-| リジッドメダリオンリング | Ridged Medallion Ring | 経験値獲得量 +13〜14% |
-| サンバウンドリング | Sunbound Ring | 最大HP +18〜20 |
-| ウィンタージュエルドリング | Winter Jeweled Ring | 情報収集中 |
-| グルーブドバンドリング | Grooved Band Ring | 情報収集中 |
-| リング・オブ・デスズパクト | Ring Of Death's Pact | 情報収集中 |
+| ナイトジュエルドリング | Night Jeweled Ring | バックスタブダメージ +15〜20% |
+| リジッドメダリオンリング | Ridged Medallion Ring | 経験値獲得量 +11〜15% |
+| サンバウンドリング | Sunbound Ring | 最大HP +15〜30 |
+| ウィンタージュエルドリング | Winter Jeweled Ring | 最大スタミナ +29〜31 |
+| グルーブドバンドリング | Grooved Band Ring | ライフスティール +1〜5% |
+| リング・オブ・デスズパクト | Ring Of Death's Pact（UNIQUE） | 死亡時のアイテムロストを防ぐ（代わりにリングが消失） |
 
 ---
 
@@ -35,20 +35,21 @@
 
 | アイテム名 | 英語名 | 効果 |
 |------------|--------|------|
-| ポインテッドシャードネックレス | Pointed Shared Necklace | 最大スタミナ +1 |
-| バルブドロップネックレス | Bulb Drop Necklace | 情報収集中 |
+| ポインテッドシャードネックレス | Pointed Shard Necklace | 最大スタミナ +1〜4 |
+| バルブドロップネックレス | Bulb Drop Necklace | 最大スタミナ +5〜25 |
 | カットシャードネックレス | Cut Shard Necklace | バックスタブダメージ +3% |
-| ロンボイドチャームネックレス | Rhomboid Charm Necklace | クリティカル率 +8% |
-| フレームドペンダントネックレス | Framed Pendant Necklace | バックスタブダメージ +8% |
-| ホロートライアングルネックレス | Hollow Triangle Necklace | 情報収集中 |
-| オーネイトティアドロップネックレス | Ornate Teardrop Necklace | 情報収集中 |
+| ロンボイドチャームネックレス | Rhomboid Charm Necklace | バックスタブダメージ +1〜2% |
+| フレームドペンダントネックレス | Framed Pendant Necklace | バックスタブダメージ +7〜8% |
+| ホロートライアングルネックレス | Hollow Triangle Necklace | クリティカル率 +4〜5% |
+| オーネイトティアドロップネックレス | Ornate Teardrop Necklace | 経験値獲得量 +1% |
 | ポリッシュドペンダントネックレス | Polished Pendant Necklace | クリティカル率 +5% |
 | シールドメダリオンネックレス | Sealed Medallion Necklace | クリティカルストライクダメージ +2〜4% |
-| スパイラルチャームネックレス | Spiral Charm Necklace | ダッシュ速度 +5% |
+| スパイラルチャームネックレス | Spiral Charm Necklace | ダッシュ速度 +400〜900% |
 | フリンジドペンダントネックレス | Fringed Pendant Necklace | ルートラック（ドロップ運） +2〜4% |
-| スムースビードネックレス | Smooth Bead Necklace | 情報収集中 |
-| ラップドオーブネックレス | Wrapped Orb Necklace | 情報収集中 |
-| ストライエイティドメダリオンネックレス | Straited Medallion Necklace | 情報収集中 |
+| スムースビードネックレス | Smooth Bead Necklace | ポーション効果時間 +3〜4% |
+| ラップドオーブネックレス | Wrapped Orb Necklace | 経験値獲得量 +11〜12% |
+| ストライエイティドメダリオンネックレス | Straited Medallion Necklace | ライフスティール +1〜3% |
+| アーケインレガシーネックレス | Arcane Legacy Necklace（UNIQUE / The First Ascent追加） | 火・毒・氷・電撃ダメージ各 +25%、防御 -35 |
 
 ---
 
@@ -56,11 +57,12 @@
 
 | 用途 | おすすめ | 理由 |
 |------|----------|------|
-| 経験値稼ぎ | Ridged Medallion Ring | 経験値 +13〜14%（最大値） |
-| ステルス・アサシン | Night Jeweled Ring | バックスタブダメージ +15〜17% |
-| 生存力重視 | Sunbound Ring | 最大HP +18〜20 |
-| 魔法・クリティカル | Rhomboid Charm Necklace | クリティカル率 +8% |
-| 探索効率 | Spiral Charm Necklace | ダッシュ速度 +5% |
+| 経験値稼ぎ | Ridged Medallion Ring | 経験値 +11〜15% |
+| ステルス・アサシン | Night Jeweled Ring | バックスタブダメージ +15〜20% |
+| 生存力重視 | Sunbound Ring | 最大HP +15〜30 |
+| クリティカル | Polished Pendant Necklace / Hollow Triangle Necklace | クリ率 +5% / +4〜5% |
+| 探索効率 | Spiral Charm Necklace | ダッシュ速度（バフ表記が大きく、効果時間限定の可能性あり） |
 | アイテム収集 | Fringed Pendant Necklace | ルートラック +2〜4% |
+| 4属性魔法アタッカー | Arcane Legacy Necklace（UNIQUE） | 4属性ダメ各 +25%（防御 -35 のリスク） |
 
 > ⚠️ Early Accessの情報に基づいています。宝飾品の種類・効果は今後のアップデートで変更・追加される可能性があります。
